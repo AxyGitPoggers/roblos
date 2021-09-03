@@ -1,2 +1,2 @@
 # roblos
-go to the dumb site
+[go to the dumb site] (blah)
